@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Montador de Grade Horária</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Montador de Grade Horária Interativo Do BI</h1>
+        <p>Clique em um horário vago para ver as disciplinas disponíveis.</p>
+        <div class="controls">
+            <button id="clear-schedule">Limpar Grade</button>
+        </div>
+        <div class="calendar-wrapper">
+            <table id="schedule-table">
+                <thead>
+                    <tr id="header-row"></tr>
+                </thead>
+                <tbody id="calendar-body"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="class-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>Disciplinas Disponíveis</h2>
+            <div id="class-options"></div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='/js/scripts.js') }}"></script>
+</body>
+</html>

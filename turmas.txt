@@ -1,0 +1,5575 @@
+[
+  {
+    "disciplina": "* ADM012 - ADMINISTRACAO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOSE CELIO SILVEIRA ANDRADE",
+        "horario": "24T12 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JOSE CELIO SILVEIRA ANDRADE",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "RICARDO COUTINHO MELLO",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "JOAO MARTINS TUDE",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ANTONIO SERGIO ARAUJO FERNANDES",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "ADM171 - ELEMENTOS E ANALISES DE CUSTOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CLEIDE DANTAS CARNEIRO",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ADM202 - COMUNICAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ERNANI COELHO NETO",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "NÍVIA MARTINS MENEZES",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "DANIELLA BARBOSA SILVA",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ADMC99 - INFORMÁTICA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ADMD07 - EMPREENDEDORISMO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ISABEL SARTORI",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ADME99 - ECONOMIA DA INOVAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "HORACIO NELSON HASTENREITER FILHO",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQ003 - DESCRITIVA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LUCIANNE FIALHO BATISTA",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LUCIANNE FIALHO BATISTA",
+        "horario": "246M56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQ005 - DESENHO GEOMETRICO I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ADRIANA SOUSA FERNANDES DA SILVA",
+        "horario": "24T56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ADRIANA SOUSA FERNANDES DA SILVA",
+        "horario": "24N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ANA CECILIA DE ANDRADE TEIXEIRA",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "ARQ010 - PERSPECTIVA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCELO RAIMUNDO PINHEIRO DA SILVA",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARCELO RAIMUNDO PINHEIRO DA SILVA",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "MARCELO RAIMUNDO PINHEIRO DA SILVA",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQ013 - DESCRITIVA I A (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JAILSON CESAR BORGES DOS SANTOS",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "IZAROSARA BORGES RAHY",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "JAILSON CESAR BORGES DOS SANTOS",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "IZAROSARA BORGES RAHY",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "NEILA LIMA BRANCO",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "JAILSON CESAR BORGES DOS SANTOS",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "JAILSON CESAR BORGES DOS SANTOS",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "MARCO ANTONIO MARTINS DE OLIVEIRA FILHO",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "MARCO ANTONIO MARTINS DE OLIVEIRA FILHO",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "NEILA LIMA BRANCO",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQB72 - EXPRESSÃO GRÁFICA 1 (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANA GABRIELA WANDERLEY SORIANO",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MANUELLA ARAUJO DE SOUZA",
+        "horario": "24T12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "JOSE FERREIRA NOBRE NETO",
+        "horario": "2N34 6N12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "KLEBER DOS SANTOS CARVALHO",
+        "horario": "2N34 6N12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "RENATA INES BURLACCHINI PASSOS DA SILVA PINTO",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "JOAO MAURICIO SANTANA RAMOS",
+        "horario": "24T12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "ARQB73 - EXPRESSÃO GRÁFICA 2 (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANA GABRIELA WANDERLEY SORIANO",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JOAO MAURICIO SANTANA RAMOS",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ITALO COSTA OLIVEIRA DE JESUS",
+        "horario": "2N12 6N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQB99 - FUNDAMENTOS DAS ESTRUTURAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "EDUARDO PARENTE PRADO",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "EDUARDO PARENTE PRADO",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "EDUARDO PARENTE PRADO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQC01 - HISTÓRIA,TEORIA CRÍTICA DA ARQUITETURA, CIDADE E ARTES I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCIA GENESIA DE SANT ANNA",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARINA SILVEIRA MUNIZ FERREIRA",
+        "horario": "24T56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MARINA SILVEIRA MUNIZ FERREIRA",
+        "horario": "2N34 6N12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQC05 - PRINCÍPIOS DO CONFORTO TÉRMICO,LUNIMOSO E ACÚSTICO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SANDRA HELENA MIRANDA DE SOUZA",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SANDRA HELENA MIRANDA DE SOUZA",
+        "horario": "24T12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "LORENA CEDRO SIMOES",
+        "horario": "2N12 6N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQC16 - DESENHO E MEIOS DE REPRESENTAÇÃO EM PROJETO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PATRICIA MARINS FARIAS",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "PATRICIA MARINS FARIAS",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MANUELLA ARAUJO DE SOUZA",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "FERNANDO FERRAZ RIBEIRO",
+        "horario": "2N12 6N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "JOSE FERREIRA NOBRE NETO",
+        "horario": "2N12 6N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "LORENA CLAUDIA DE SOUZA MOREIRA",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQC17 - DESENHO DE OBSERVAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LUCIANA GUERRA SANTOS MOTA",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARCO ANTONIO MARTINS DE OLIVEIRA FILHO",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "LUCIANA GUERRA SANTOS MOTA",
+        "horario": "6T12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ANA CECILIA DE ANDRADE TEIXEIRA",
+        "horario": "6T12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "JOSE FERREIRA NOBRE NETO",
+        "horario": "5N12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "THAIS DE BHANTHUMCHINDA PORTELA",
+        "horario": "5N12 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQC19 - ESTUDOS SOCIOECONÔMICOS E AMBIENTAIS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LARISSA DANTAS ROCHA",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANA LUIZA SILVA FREIRE",
+        "horario": "6T3456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MARTA RAQUEL DA SILVA ALVES",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQD08 - ATELIÊ COMPLEMENTAR:INTERVENÇÃO NO PATRIMÔNIO EDIFICADO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JULIANA CARDOSO NERY",
+        "horario": "24M3456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARIELY CABRAL DE SANTANA",
+        "horario": "24M3456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "VALDINEI LOPES DO NASCIMENTO",
+        "horario": "35M3456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MAURICIO DE ALMEIDA CHAGAS",
+        "horario": "24T3456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ANY BRITO LEAL IVO",
+        "horario": "24T3456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ARQD28 - ESTÉTICA,EXPERIMENTAÇÃO E APREENSÃO DA ARQUITETURA E CIDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "EDUARDO ROCHA LIMA",
+        "horario": "35M123 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "RODRIGO SCHEEREN",
+        "horario": "35T456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "RAFAEL GOFFINET DE ALMEIDA",
+        "horario": "3N1234 5N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MARCIA SILVA DOS REIS",
+        "horario": "3N1234 5N34 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ANA CECILIA DE ANDRADE TEIXEIRA",
+        "horario": "35M123 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "RAFAEL GOFFINET DE ALMEIDA",
+        "horario": "35T456 (01/09/2025 - 10/01/2026)",
+        "local": "ARQ (ARQ)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* BIO007 - INTRODUÇÃO A BIOLOGIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2M12 6M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "PATRICIA OLIVEIRA FIUZA",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* BIO143 - EVOLUÇÃO DO PENSAMENTO CIENTÍFICO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CLAUDIO RICARDO MARTINS DOS REIS",
+        "horario": "2T56 4T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* BIOA93 - BIOLOGIA MOLECULAR E CELULAR APLICADA À MEDICINA VETERINÀRIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LUCIANA VEIGA BARBOSA",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "BIO (BIO)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LUCIANA VEIGA BARBOSA",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "BIO (BIO)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* BIOB24 - FORMULAÇÃO DE PROBLEMAS DE PESQUISA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CLAUDIO RICARDO MARTINS DOS REIS",
+        "horario": "5M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* COM305 - JORNALISMO E SOCIEDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ALEXANDRO MOTA DA SILVA",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "COM (COM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* COMB97 - HISTÓRIA DO CINEMA E DO AUDIOVISUAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "TENILLE QUEIROZ BEZERRA",
+        "horario": "5T2345 (01/09/2025 - 10/01/2026)",
+        "local": "COM (COM)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "TENILLE QUEIROZ BEZERRA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "COM (COM)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* DIR175 - LEGISLAÇÃO SOCIAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ADRIANA BRASIL VIEIRA WYZYKOWSKI",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LAWRENCE ESTIVALET DE MELLO",
+        "horario": "3T2345 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "FELIPE SANTOS ESTRELA DE CARVALHO",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "DIR (DIR)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "FELIPE SANTOS ESTRELA DE CARVALHO",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "DIR (DIR)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "MARIO SOARES NETO",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "JULIANA MARIA DA COSTA PINTO DIAS NASCIMENTO",
+        "horario": "24N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ECOB40 - INTRODUÇÃO À ECONOMIA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CLAUDIA SA MALBOUISSON ANDRADE",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "ECO (ECO)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JULIANA LAGO DOS SANTOS",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "JULIANA LAGO DOS SANTOS",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "JULIANA LAGO DOS SANTOS",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "LUIZ GUSTAVO ARAÚJO DA CRUZ CASAIS E SILVA",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "TYAGO OLIVEIRA DO CARMO",
+        "horario": "24T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "JULIANA LAGO DOS SANTOS",
+        "horario": "24T56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "JULYAN GLEYVISON MACHADO GOUVEIA LINS",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "ALICE DAIANE ROCHA DE MATTOS",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "TYAGO OLIVEIRA DO CARMO",
+        "horario": "24N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "LUCAS DE MENEZES E SILVA VALLADARES",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "LUCAS DE MENEZES E SILVA VALLADARES",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "PAULO ANTONIO DE FREITAS BALANCO",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "ECO (ECO)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "ALICE DAIANE ROCHA DE MATTOS",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "ALYNSON DOS SANTOS ROCHA",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "JOSÉ FIRMINO DE SOUSA FILHO",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "ADM (ADM)"
+      },
+      {
+        "turma": "Turma 17",
+        "docente": "TYAGO OLIVEIRA DO CARMO",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 18",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "ECO (ECO)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDC062 - ATIVIDADE MOTORA NA PROMOCAO DA SAUDE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6T2345 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDC209 - INTRODUÇÃO À EDUCAÇÃO ESPECIAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ALESSANDRA SANTANA SOARES E BARROS",
+        "horario": "5T1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "TAIANE ABREU MACHADO",
+        "horario": "3M3456 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "TAIANE ABREU MACHADO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2T2345 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDC232 - FUTEBOL II (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOSE CLAUDIO JAMBASSI FILHO",
+        "horario": "3M12345 (01/09/2025 - 10/01/2026)",
+        "local": "CEE"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDC243 - TREINAMENTO DESPORTIVO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "VICTOR HUGO DE FREITAS",
+        "horario": "6M123456  6T1 (01/09/2025 - 10/01/2026)",
+        "local": "CEE"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDC245 - MUSCULACAO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "VICTOR HUGO DE FREITAS",
+        "horario": "4M12345 (01/09/2025 - 10/01/2026)",
+        "local": "CEE"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDC282 - TRABALHO E EDUCAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "IURE ALCANTARA DOS SANTOS BARROS",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDC283 - CURRÍCULO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ROBERTO SIDNEI ALVES MACEDO",
+        "horario": "3M3456 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ROBERTO SIDNEI ALVES MACEDO",
+        "horario": "5M3456 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MARIA ROSELI GOMES BRITO DE SA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCA02 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA II (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LISIANE WEBER MOREIRA",
+        "horario": "2M3456 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "GABRIEL SWAHILI SALES DE ALMEIDA",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "IURE ALCANTARA DOS SANTOS BARROS",
+        "horario": "3M1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "VITOR BEMVINDO VIEIRA",
+        "horario": "3T1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "IURE ALCANTARA DOS SANTOS BARROS",
+        "horario": "3T1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "GABRIEL SWAHILI SALES DE ALMEIDA",
+        "horario": "4M3456 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "RODRIGO DA SILVA PEREIRA",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "LISIANE WEBER MOREIRA",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "VITOR BEMVINDO VIEIRA",
+        "horario": "5T1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "SILVIA MARIA LEITE DE ALMEIDA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCA03 - FILOSOFIA E EDUCAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "KLEVERTON BACELAR SANTANA",
+        "horario": "3M3456 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "KLEVERTON BACELAR SANTANA",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "WILSON NASCIMENTO SANTOS",
+        "horario": "5M1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCA04 - SOCIEDADE E EDUCAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "RUBENILDA SODRE DOS SANTOS",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SELMA CRISTINA SILVA DE JESUS",
+        "horario": "3M1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCA05 - HISTÓRIA DA EDUCAÇÃO BRASILEIRA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CAROLINE BATISTA SILVA DE SOUZA",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "CAROLINE BATISTA SILVA DE SOUZA",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "CAROLINE BATISTA SILVA DE SOUZA",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "CAROLINE BATISTA SILVA DE SOUZA",
+        "horario": "2M3456 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "KELLY LUDKIEWICZ ALVES",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCA11 - DIDÁTICA E PRAXIS PEDAGÓGICA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CLEVERSON SUZART SILVA",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANA KATIA ALVES DOS SANTOS",
+        "horario": "3M3456 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ALESSANDRA SANTOS DE ASSIS",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "CLEVERSON SUZART SILVA",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ROBERTO LUIZ MACHADO",
+        "horario": "5M3456 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "ROBERTO LUIZ MACHADO",
+        "horario": "5T1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "ANA KATIA ALVES DOS SANTOS",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "ALESSANDRA SANTOS DE ASSIS",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCD49 - ESPORTE I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LEANDRO BORGES DA CRUZ DE DEUS",
+        "horario": "3M3456 (01/09/2025 - 10/01/2026)",
+        "local": "CEE"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCD58 - EDUCAÇÃO FÍSICA ADAPTADA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "5M2345 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCD59 - EDUCAÇÃO, IDENTIDADE E PLURALIDADE CULTURAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARIA CECILIA DE PAULA SILVA",
+        "horario": "3M3456 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCD76 - PRÁTICA DE ENSINO I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOSE CLAUDIO JAMBASSI FILHO",
+        "horario": "4M123456 (01/09/2025 - 10/01/2026)",
+        "local": "CEE"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCK75 - EDUCAÇÃO E DIREITOS HUMANOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ADRIANA FRANCO DE QUEIROZ",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MAIARA DAMASCENO DA SILVA SANTANA",
+        "horario": "5M3456 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* EDCL66 - ACCS:COMUNICAÇÃO POPULAR E DIVULGAÇÃO CIENTÍFICA EM EDUCAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCIA DE FATIMA RABELLO LOVISI DE FREITAS e VITOR BEMVINDO VIEIRA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "EDC (EDC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENG033 - INTRODUÇÃO À ENGENHARIA MECANICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JAYANN ISMAR LIRA ALMEIDA",
+        "horario": "6M345 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JAYANN ISMAR LIRA ALMEIDA e ALINE SILVA",
+        "horario": "2T234 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENG037 - PLANEJAMENTO E CONTROLE DA PRODUCAO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 02",
+        "docente": "JOILSON NASCIMENTO PAIM",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENG436 - TOPICOS ESPECIAIS EM ENGENHARIA QUIMICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANDREA LIMOEIRO CARVALHO",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENG439 - INTRODUÇÃO À ENGENHARIA ELÉTRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DANIEL BARBOSA",
+        "horario": "6M56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENG446 - INTRODUÇÃO À ENGENHARIA CIVIL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CERENO DE FREITAS DINIZ GONCALVES MUNIZ",
+        "horario": "3M56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "RAFAEL NUNES DA CUNHA",
+        "horario": "3T56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2T56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGC26 - SISTEMAS LÓGICOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FABIAN SOUZA DE ANDRADE",
+        "horario": "5M34 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "VIVIANE OLIVEIRA DAS MERCES",
+        "horario": "5N12 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGC28 - LABORATÓRIO INTEGRADO I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "EDSON PINTO SANTANA",
+        "horario": "6T12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "FABIAN SOUZA DE ANDRADE",
+        "horario": "3M34 (01/09/2025 - 10/01/2026)",
+        "local": "ENG"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "FABIAN SOUZA DE ANDRADE",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MAICON DEIVID PEREIRA",
+        "horario": "3M34 (01/09/2025 - 10/01/2026)",
+        "local": "ENG"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGC29 - METODOLOGIA E EXPRESSÃO DO CONHECIMENTO CIENTÍFICO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANTONIO JOSE SOBRINHO DE SOUSA",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGC99.0 - INTRODUÇÃO À ENGENHARIA QUÍMICA - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ELAINE CHRISTINE DE MAGALHAES CABRAL ALBUQUERQUE",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGC99.1 - INTRODUÇÃO À ENGENHARIA QUÍMICA - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "KLEBER DOS SANTOS CARVALHO",
+        "horario": "3M56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "KLEBER DOS SANTOS CARVALHO",
+        "horario": "5M56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "ENGD01 - MÉTODOS COMPUTACIONAIS NA ENGENHARIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "POLIANA PASTORELE DA SILVA QUIRINO",
+        "horario": "36M56 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "POLIANA PASTORELE DA SILVA QUIRINO",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGD02 - ESTATÍSTICA NA ENGENHARIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "KARLA PATRICIA SANTOS OLIVEIRA RODRIGUEZ ESQUERRE",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "REINER REQUIAO DE SOUZA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGD06 - ENGENHARIA ECONÔMICA E GESTÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "HERBERT PEREIRA DE OLIVEIRA",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "YURI GUERRIERI PEREIRA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG (ENG)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGG51 - INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "VIVIANE OLIVEIRA DAS MERCES",
+        "horario": "3N12 (01/09/2025 - 10/01/2026)",
+        "local": "ENG"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ENGM96 - GERENCIAMENTO DA MOBILIDADE URBANA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DENISE MARIA DA SILVA RIBEIRO",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "Escola Politécnica"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FARA01 - METODOLOGIA CIENTÍFICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "EDIMAR CAETITE JUNIOR",
+        "horario": "4M34 (01/09/2025 - 10/01/2026)",
+        "local": "FAR (FAR)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "EDIMAR CAETITE JUNIOR",
+        "horario": "4T23 (01/09/2025 - 10/01/2026)",
+        "local": "FAR (FAR)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "EDIMAR CAETITE JUNIOR",
+        "horario": "5N12 (01/09/2025 - 10/01/2026)",
+        "local": "FAR (FAR)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCC001 - CONTABILIDADE GERAL I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANTONIO GUALBERTO PEREIRA",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCC033 - CONTABILIDADE INTRODUTORIA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOAO PAULO AUGUSTO ECA",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "SHEIZI CALHEIRA DE FREITAS",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "RAISSA AGLE MOURA DE SOUSA",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "JOSUE PIRES BRAGA",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCC041 - MET.PESQ.APLIC.CONTABILIDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANTONIO CARLOS RIBEIRO DA SILVA",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANTONIO CARLOS RIBEIRO DA SILVA",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "DANIEL KOULOUKOUI",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCCB91.0 - ACCS-EXT.U.D.CIENT.TEC.INOV.:REG.PAT.DE INVENÇÃO - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "AURISTELA FELIX DE OLIVEIRA TEODORO",
+        "horario": "4T23 (01/09/2025 - 10/01/2026)",
+        "local": "FCC (FCC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCCB91.1 - ACCS-EXT.U.D.CIENT.TEC.INOV.:REG.PAT.DE INVENÇÃO - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "AURISTELA FELIX DE OLIVEIRA TEODORO",
+        "horario": "4T45 (01/09/2025 - 10/01/2026)",
+        "local": "FCC (FCC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCH001 - INTRODUÇÃO À FILOSOFIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DIEGO LUIZ WARMLING",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "RAFAEL FERNANDES MENDES DOS SANTOS",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "RAYANE BATISTA DE ARAUJO",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "DIEGO LUIZ WARMLING",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "RAFAEL FERNANDES MENDES DOS SANTOS",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "MARIANA DE ALMEIDA CAMPOS",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PSL (Pavilhão de Aulas de São Lázaro)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "CARLOS FERNANDO CARRER DA CUNHA",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "RAFAEL FERNANDES MENDES DOS SANTOS",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "DIEGO LUIZ WARMLING",
+        "horario": "26M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "RAYANE BATISTA DE ARAUJO",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "MARCO AURELIO OLIVEIRA DA SILVA",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PSL (Pavilhão de Aulas de São Lázaro)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "CARLOS FERNANDO CARRER DA CUNHA",
+        "horario": "46M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "CARLOS FERNANDO CARRER DA CUNHA",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "FCH004 - LOGICA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ROBERTA MAGALHAES MIQUELANTI",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "RAFAEL FERNANDES MENDES DOS SANTOS",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCH006 - INTRODUÇÃO SOCIOLOGIA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "REBECA SOBRAL FREIRE",
+        "horario": "6M345 (01/09/2025 - 10/01/2026)",
+        "local": "PSL (Pavilhão de Aulas de São Lázaro)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JULIO SOUTO SALOM",
+        "horario": "6M345 (01/09/2025 - 10/01/2026)",
+        "local": "PSL (Pavilhão de Aulas de São Lázaro)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "IARA MARIA DE ALMEIDA SOUZA",
+        "horario": "2T123 (01/09/2025 - 10/01/2026)",
+        "local": "PRS (Pavilhão de Aulas Raul Seixas)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "BRUNO COSTA BARREIROS e JULIO SOUTO SALOM",
+        "horario": "2T123 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCH124 - ANTROPOLOGIA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCUS VINICIUS RIOS BARRETO",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "DIR (DIR)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LUCAS MAROTO MOREIRA",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "FCH (FCH)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "LUIS FELIPE FREIRE DANTAS SANTOS",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "FCH (FCH)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "LUCAS MAROTO MOREIRA",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "FCH (FCH)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "FELIPE SOTTO MAIOR CRUZ",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "DIR (DIR)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "MARCUS VINICIUS RIOS BARRETO",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "DIR (DIR)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCHC45 - METODOLOGIA E EXPRESSÃO TÉCNICO-CIENTÍFICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "REBECA SOBRAL FREIRE",
+        "horario": "6T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PSL (Pavilhão de Aulas de São Lázaro)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "REBECA SOBRAL FREIRE",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "PSL (Pavilhão de Aulas de São Lázaro)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCHF90 - INDIVÍDUO E SOCIEDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ALAN DELAZERI MOCELLIM",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PRS (Pavilhão de Aulas Raul Seixas)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FCHP02 - ACCS: CLUBE DE LEITURA ENTRELINHAS: ÉTICA, PODER E ABJEÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 02",
+        "docente": "GUILLERMO VEGA SANABRIA",
+        "horario": "2M3456 (01/09/2025 - 10/01/2026)",
+        "local": "FCH (FCH)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FISD36 - FÍSICA GERAL TEÓRICA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "WASHINGTON SANTA ROSA",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "EDVALDO SUZARTHE DE ARAUJO",
+        "horario": "26M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "46M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "EDVALDO SUZARTHE DE ARAUJO",
+        "horario": "26M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "JULIO AUGUSTO GUEDES",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "CARLA RODRIGUES ALMEIDA",
+        "horario": "24T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "MARIA DO ROSARIO ZUCCHI",
+        "horario": "26T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "ALANNA COSTA DUTRA",
+        "horario": "46T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "JULIO AUGUSTO GUEDES",
+        "horario": "26T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "ESDRAS SANTANA DOS SANTOS",
+        "horario": "26T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "EDUARDO REIS VIANA ROCHA JUNIOR",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "ANDERSON HERBERT DE ABREU GOMES",
+        "horario": "26N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "EDUARDO REIS VIANA ROCHA JUNIOR",
+        "horario": "24N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "ANDERSON HERBERT DE ABREU GOMES",
+        "horario": "26N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "JOSE ROBERTO BISPO DE SOUZA",
+        "horario": "46N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FISD41 - FÍSICA GERAL EXPERIMENTAL II (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6M34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "TIAGO FRANCA PAES",
+        "horario": "6N34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ANDRE JACKSON RAMOS SIMOES",
+        "horario": "6N34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "SAULO CARNEIRO DE SOUZA SILVA",
+        "horario": "3T34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "LEANDRO DO ROZARIO TEIXEIRA",
+        "horario": "3T34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "HUMBERTO DE ALMEIDA BORGES",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "SAULO CARNEIRO DE SOUZA SILVA",
+        "horario": "6M56 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6M56 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "ANDRE JACKSON RAMOS SIMOES",
+        "horario": "6T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "FLORA SOUZA BACELAR",
+        "horario": "6M34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "ANDRE JACKSON RAMOS SIMOES",
+        "horario": "6N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "ANDRE JACKSON RAMOS SIMOES",
+        "horario": "4T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 17",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 18",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4T34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 19",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4T34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 20",
+        "docente": "FLORA SOUZA BACELAR",
+        "horario": "4M34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 21",
+        "docente": "HUMBERTO DE ALMEIDA BORGES",
+        "horario": "4M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 22",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* FISD42 - FÍSICA GERAL EXPERIMENTAL I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6M34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARCELO COSTA MUNIZ",
+        "horario": "6M34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "JOSE GARCIA VIVAS MIRANDA",
+        "horario": "6T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "MARCELO COSTA MUNIZ",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "ALEXANDRE ARARIPE CAVALCANTE",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "ALEXANDRE ARARIPE CAVALCANTE",
+        "horario": "4M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "MARCELO COSTA MUNIZ",
+        "horario": "4M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2M12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "ALEXANDRE ARARIPE CAVALCANTE",
+        "horario": "6M56 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "ALEXANDRE BARRETO COSTA",
+        "horario": "6M56 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "ALEXANDRE ARARIPE CAVALCANTE",
+        "horario": "4T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "THIERRY JACQUES LEMAIRE",
+        "horario": "4T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "JOSE GARCIA VIVAS MIRANDA",
+        "horario": "2T12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "ALEXANDRE ARARIPE CAVALCANTE",
+        "horario": "4T34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 17",
+        "docente": "THIERRY JACQUES LEMAIRE",
+        "horario": "4T34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 18",
+        "docente": "ALEXANDRE ARARIPE CAVALCANTE",
+        "horario": "4T56 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 19",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4T56 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 20",
+        "docente": "ANDRE TELLES DA CUNHA LIMA",
+        "horario": "6N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 21",
+        "docente": "RAPHAEL SILVA DO ROSARIO",
+        "horario": "6N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 22",
+        "docente": "ANDRE TELLES DA CUNHA LIMA",
+        "horario": "4N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 23",
+        "docente": "CARLOS ALESSANDRE DOMINGOS LENTINI",
+        "horario": "4N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 24",
+        "docente": "ANDRE TELLES DA CUNHA LIMA",
+        "horario": "6N34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 25",
+        "docente": "RAPHAEL SILVA DO ROSARIO",
+        "horario": "6N34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 26",
+        "docente": "ANDRE TELLES DA CUNHA LIMA",
+        "horario": "4N34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 27",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 28",
+        "docente": "CARLOS ALESSANDRE DOMINGOS LENTINI",
+        "horario": "2N12 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 29",
+        "docente": "ALEXANDRE ARARIPE CAVALCANTE",
+        "horario": "4M34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      },
+      {
+        "turma": "Turma 30",
+        "docente": "MARCELO COSTA MUNIZ",
+        "horario": "4M34 (01/09/2025 - 10/01/2026)",
+        "local": "FIS (FIS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* GEO202.0 - GEOLOGIA FÍSICA - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "OLGA MARIA FRAGUEIRO OTERO",
+        "horario": "3T123 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JOELSON DA CONCEICAO BATISTA",
+        "horario": "3T123 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      }
+    ]
+  },
+  {
+    "disciplina": "* GEO202.1 - GEOLOGIA FÍSICA - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "OLGA MARIA FRAGUEIRO OTERO",
+        "horario": "5T123 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "OLGA MARIA FRAGUEIRO OTERO",
+        "horario": "5T456 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "HAILTON MELLO DA SILVA",
+        "horario": "5T123 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "HAILTON MELLO DA SILVA",
+        "horario": "6T123 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      }
+    ]
+  },
+  {
+    "disciplina": "* GEOA01.0 - FUNDAMENTOS DE GEOLOGIA - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SUELEN FERREIRA DE SOUZA",
+        "horario": "2M56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "DIEGO NERY DO AMARAL",
+        "horario": "2T56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "AYANA SOUZA DA SILVA",
+        "horario": "4N12 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* GEOA01.1 - FUNDAMENTOS DE GEOLOGIA - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ALICE MARQUES PEREIRA LAU",
+        "horario": "4M56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ALICE MARQUES PEREIRA LAU",
+        "horario": "5M56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ALICE MARQUES PEREIRA LAU",
+        "horario": "6M56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "CAROLINA DE ALMEIDA POGGIO",
+        "horario": "4T56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "LEONARDO SOARES MASCARENHAS",
+        "horario": "5T56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "LEONARDO SOARES MASCARENHAS",
+        "horario": "6T56 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "AYANA SOUZA DA SILVA",
+        "horario": "2N12 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* GEOA16 - CLIMATOLOGIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PAULO CESAR ZANGALLI JUNIOR",
+        "horario": "6M2345 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JUNIA KACENELENBOGEN GUIMARAES",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "IGEO"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6M2345 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* GEOA83 - MUDANÇAS CLIMÁTICAS GLOBAIS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CAROLINA DE ALMEIDA POGGIO e IRACEMA REIMAO SILVA",
+        "horario": "24M23 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "IRACEMA REIMAO SILVA",
+        "horario": "35M23 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* GEOB16 - GEOBIOLOGIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CAROLINA DE ALMEIDA POGGIO",
+        "horario": "3T12 (01/09/2025 - 10/01/2026)",
+        "local": "GEO (GEO)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA03 - ESTUDOS DAS HUMANIDADES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FRANCISCO ANTONIO ZORZO",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "FRANCISCO ANTONIO ZORZO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA10 - INTRODUÇÃO AO CAMPO DA SAÚDE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "VANIA SAMPAIO ALVES",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA35 - ESTUDOS DAS SOCIEDADES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FELIPE MILANEZ PEREIRA",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MILTON JULIO DE CARVALHO FILHO",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "DENISE CRISTINA VITALE RAMOS MENDES",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA36 - ESTUDOS DAS CULTURAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA37 - AÇÃO ARTÍSTICA II (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DJALMA THÜRLER",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "KARLA SCHUCH BRUNET",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "SAMUEL MACEDO DO NASCIMENTO",
+        "horario": "6T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MARILDA DE SANTANA SILVA",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ANA CAROLINA PEDROSA PONTES",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "ANA CAROLINA PEDROSA PONTES",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "JOAQUIM ANTONIO RODRIGUES VIANA NETO",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "CINTIA GUEDES BRAGA",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "SAMUEL MACEDO DO NASCIMENTO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "MARIELA BRAZON HERNANDEZ",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "DJALMA THÜRLER",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "CINTIA GUEDES BRAGA",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA40 - CAMPO DA SAÚDE: SABERES E PRÁTICAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LUCAS MONTEIRO SANTOS",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "BIANCA RUCKERT",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "LUCAS MONTEIRO SANTOS",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MARCOS VINÍCIUS DE SANTANA SILVA",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "MARCOS VINÍCIUS DE SANTANA SILVA",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA42 - TOPICOS ESPECIAIS EM CULTURA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CARLOS ALBERTO BONFIM",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA43 - TÓPICOS ESPECIAIS EM HUMANIDADES I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANA LUCIA LAGE PEREIRA",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA44 - LABORATÓRIOS DE CRIAÇÃO E PRÁTICAS ARTÍSTICAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LEONARDO JOSE SEBIANE SERRANO",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LAURA CASTRO DE ARAUJO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA48 - ARTE E ESTÉTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "3N34 (01/09/2025 - 10/01/2026)",
+        "local": "NUT (NUT)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA50 - RACIONALIDADES EM SAÚDE:SISTEMAS MÉDICOS E PRÁT.ALTERNATIVAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANAMELIA LINS E SILVA FRANCO",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA51 - ESTUDOS DO DESENVOLVIMENTO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANGELA MARIA DE ALMEIDA FRANCO",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANGELA MARIA DE ALMEIDA FRANCO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA76 - ESTUDO DOS PODERES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FERNANDO GIGANTE FERRAZ",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MAURICIO MATOS DOS SANTOS PEREIRA",
+        "horario": "6T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "DANIEL MAURICIO CAVALCANTI DE ARAGAO",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "DANIEL MAURICIO CAVALCANTI DE ARAGAO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "MAURICIO MATOS DOS SANTOS PEREIRA",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA77 - ESTUDOS DAS SUBJETIVIDADES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SONIA MARIA ROCHA SAMPAIO",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA79 - TOPICOS ESPECIAIS EM ARTES I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOAQUIM ANTONIO RODRIGUES VIANA NETO",
+        "horario": "6T1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "KARLIANE MACEDO NUNES",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "EDILENE DIAS MATOS",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "PAOLA BARRETO LEBLANC",
+        "horario": "5T5  5N4 7N12 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACA88 - DESENVOLVIMENTO DE PRODUTO E PRODUÇÃO INDUSTRIAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ADEMAR NOGUEIRA DO NASCIMENTO",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB13 - TÓPICOS ESPECIAIS EM ARTES E TECNOLOGIAS CONTEMPORÂNEAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MESSIAS GUIMARAES BANDEIRA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB17 - SAÚDE, EDUCAÇÃO E TRABALHO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARIA CONSTANTINA CAPUTO",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB18 - TÓPICOS ESPECIAIS EM SAÚDE I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LUIS AUGUSTO VASCONCELOS DA SILVA",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB19 - TÓPICOS ESPECIAIS EM SAÚDE II (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARIA THEREZA AVILA DANTAS COELHO",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARIA THEREZA AVILA DANTAS COELHO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB29 - TEORIAS DA CULTURA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CARLOS ALBERTO BONFIM",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB30 - POLÍTICAS PÚBLICAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DENISE CRISTINA VITALE RAMOS MENDES",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB34 - TEORIA DAS RELAÇÕES INTERNACIONAIS I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "VICTOR COUTINHO LAGE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB36 - ESTUDOS DO CAPITALISMO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCOS GUEDES VAZ SAMPAIO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB38 - OFICINA DE TEXTOS EM HUMANIDADES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB75 - PRODUÇÃO E DIFUSÃO DO CONHECIMENTO EM ARTES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "IVAN MAIA DE MELLO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB89 - CIDADES, VIOLÊNCIAS E TECNOLOGIAS DE SEGURANÇA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MILTON JULIO DE CARVALHO FILHO",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB92 - GESTÃO DE ORGANIZAÇÕES CULTURAIS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB93 - POLÍTICA EXTERNA II (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 02",
+        "docente": "JOSE AURIVALDO SACCHETTA RAMOS MENDES",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB94 - RELAÇÕES INTERNACIONAIS CONTEMPORÂNEAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCOS GUEDES VAZ SAMPAIO",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACB95 - ECONOMIA POLÍTICA INTERNACIONAL II (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ELSA SOUSA KRAYCHETE",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACC06 - ECOPOLÍTICA MUNDIAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DIANA AGUIAR ORRICO SANTOS",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACC33 - TÓPICOS ESPECIAIS EM ARTES III (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "3N12 (01/09/2025 - 10/01/2026)",
+        "local": "NUT (NUT)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACC47 - TÓPICOS ESPECIAIS EM SAÚDE V (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LUIS AUGUSTO VASCONCELOS DA SILVA",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACC48 - TÓPICOS ESPECIAIS EM SAÚDE VI (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ADRIANA MIRANDA PIMENTEL",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* HACC49 - TÓPICOS ESPECIAIS EM SAÚDE VII (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "BIANCA RUCKERT",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICS028.0 - MICROBIOLOGIA I - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LILIA FERREIRA DE MOURA COSTA",
+        "horario": "2M34 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JAILTON DE AZEVEDO SILVA JUNIOR",
+        "horario": "3M12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "PAULO FERNANDO DE ALMEIDA",
+        "horario": "3M12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "JOSILENE BORGES TORRES LIMA MATOS",
+        "horario": "6M12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "JOSE TADEU RAYNAL ROCHA FILHO",
+        "horario": "3N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICS028.1 - MICROBIOLOGIA I - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LILIA FERREIRA DE MOURA COSTA",
+        "horario": "23M2 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LUANA LEANDRO GOIS",
+        "horario": "23M2 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "JOSILENE BORGES TORRES LIMA MATOS e MONICA PEREIRA FRANCA",
+        "horario": "23M2 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "TONYA AZEVEDO DUARTE",
+        "horario": "23M3 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "SILVIA INES SARDI",
+        "horario": "23M3 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "TONYA AZEVEDO DUARTE",
+        "horario": "23M4 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "SILVIA INES SARDI",
+        "horario": "23M4 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "JOSILENE BORGES TORRES LIMA MATOS",
+        "horario": "23M5 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "JAILTON DE AZEVEDO SILVA JUNIOR",
+        "horario": "23M5 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "JOSILENE BORGES TORRES LIMA MATOS",
+        "horario": "23M6 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "JAILTON DE AZEVEDO SILVA JUNIOR",
+        "horario": "23M6 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "JOSE TADEU RAYNAL ROCHA FILHO e JOSILENE BORGES TORRES LIMA MATOS",
+        "horario": "56M3 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "PAULO FERNANDO DE ALMEIDA",
+        "horario": "56M3 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "JAILTON DE AZEVEDO SILVA JUNIOR",
+        "horario": "56M4 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "JOSILENE BORGES TORRES LIMA MATOS",
+        "horario": "56M4 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "JAILTON DE AZEVEDO SILVA JUNIOR",
+        "horario": "56M5 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 17",
+        "docente": "JOSE TADEU RAYNAL ROCHA FILHO",
+        "horario": "4N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 18",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 19",
+        "docente": "SILVIA INES SARDI",
+        "horario": "23M5 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 21",
+        "docente": "LILIA FERREIRA DE MOURA COSTA",
+        "horario": "23M5 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "ICS045.0 - IMUNOLOGIA I - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SILVANA BEUTINGER MARCHIORO e ROBERT EDUARD SCHAER",
+        "horario": "24T2 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SILVANA BEUTINGER MARCHIORO e ROBERT EDUARD SCHAER",
+        "horario": "35T2 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "ICS045.1 - IMUNOLOGIA I - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOSE TADEU RAYNAL ROCHA FILHO",
+        "horario": "24T1 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ROBERT EDUARD SCHAER",
+        "horario": "35T1 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "SILVANA BEUTINGER MARCHIORO e JOSE TADEU RAYNAL ROCHA FILHO",
+        "horario": "35T1 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ROBERT EDUARD SCHAER",
+        "horario": "35T3 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "SILVANA BEUTINGER MARCHIORO",
+        "horario": "35T3 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA04 - BIOSSEGURANÇA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SONGELI MENEZES FREIRE",
+        "horario": "3N34 (01/09/2025 - 10/01/2026)",
+        "local": "ISC (ISC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SONGELI MENEZES FREIRE",
+        "horario": "5N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA07 - BIOÉTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SONGELI MENEZES FREIRE",
+        "horario": "5N34 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SONGELI MENEZES FREIRE",
+        "horario": "3N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA08 - BIOLOGIA CELULAR VEGETAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "RENATO DELMONDEZ DE CASTRO",
+        "horario": "5N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA10 - METODOLOGIA CIENTÍFICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "GILSON CORREIA DE CARVALHO",
+        "horario": "6N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ALINE SILVA DE MOURA",
+        "horario": "6M56 (01/09/2025 - 10/01/2026)",
+        "local": "FMB"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA18.0 - GENÉTICA - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "VITOR HUGO MOREAU DA CUNHA",
+        "horario": "3N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA18.1 - GENÉTICA - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "VITOR HUGO MOREAU DA CUNHA",
+        "horario": "3N34 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "VITOR HUGO MOREAU DA CUNHA",
+        "horario": "3T56 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA43.0 - ANATOMIA I-A - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARIA PENHA OLIVEIRA BELEM",
+        "horario": "5M1 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ELIANA DOS SANTOS CAMARA PEREIRA",
+        "horario": "6T1 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ELIANA DOS SANTOS CAMARA PEREIRA",
+        "horario": "6N1 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA43.1 - ANATOMIA I-A - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARIA PENHA OLIVEIRA BELEM",
+        "horario": "5M23 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LAISE MONTEIRO CAMPOS MORAES",
+        "horario": "5M23 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MARIA PENHA OLIVEIRA BELEM",
+        "horario": "5M45 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ELIANA DOS SANTOS CAMARA PEREIRA",
+        "horario": "6T23 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ELIANA DOS SANTOS CAMARA PEREIRA",
+        "horario": "6T45 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "AMANDA ARAUJO DE CARVALHO",
+        "horario": "6N23 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "ELIANA DOS SANTOS CAMARA PEREIRA",
+        "horario": "6N23 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSA47 - MICROBIOLOGIA BÁSICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SAMIRA ABDALLAH HANNA",
+        "horario": "2T12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JOSE TADEU RAYNAL ROCHA FILHO",
+        "horario": "2T34 (01/09/2025 - 10/01/2026)",
+        "local": "ICS (ICS)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSC43 - ADITIVOS, CONSERVANTES E PROMOTORES DE CRESCIMENTO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCELO ANDRES UMSZA GUEZ",
+        "horario": "3N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSC50 - INOVAÇÃO TECNOLÓGICA E PROPRIEDADE INTELECTUAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANGELA MACHADO ROCHA",
+        "horario": "2N12 (01/09/2025 - 10/01/2026)",
+        "local": "ICS"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ICSC60 - ACCS: EMPREENDEDORISMO EM BIOTECNOLOGIA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANGELA MACHADO ROCHA",
+        "horario": "2T3456 (01/09/2025 - 10/01/2026)",
+        "local": null
+      }
+    ]
+  },
+  {
+    "disciplina": "* IPSA01 - PSICOLOGIA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MAILSON SANTOS PEREIRA",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANA PAULA VEDOVATO MARQUES DE OLIVEIRA",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ANA PAULA VEDOVATO MARQUES DE OLIVEIRA",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ANA PAULA VEDOVATO MARQUES DE OLIVEIRA",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "JOSE CARLOS SANTOS RIBEIRO",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* IPSA14 - PSICOLOGIA SOCIAL I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MAILSON SANTOS PEREIRA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MAILSON SANTOS PEREIRA",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* IPSC35 - PSICOLOGIA E SAÚDE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MAURÍCIO COELHO DE JESUS",
+        "horario": "3T2345 (01/09/2025 - 10/01/2026)",
+        "local": "PSL (Pavilhão de Aulas de São Lázaro)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ISC001 - INTRODUÇÃO À SAÚDE COLETIVA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MONICA DE OLIVEIRA NUNES DE TORRENTE",
+        "horario": "5M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JORGE ALBERTO BERNSTEIN IRIART",
+        "horario": "5M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MARILIA MARTINS DE ARAUJO REIS",
+        "horario": "46T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "CLARICE SANTOS MOTA",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "MARCELO EDUARDO PFEIFFER CASTELLANOS",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "LITZA ANDRADE CUNHA",
+        "horario": "5M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "MARILIA MARTINS DE ARAUJO REIS",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "YEIMI ALEXANDRA ALZATE LOPEZ",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* ISCB20 - EDUCAÇÃO E COMUNICAÇÃO EM SAÚDE I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LILIANA SANTOS",
+        "horario": "2T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LET054 - INGLES INSTRUMENTAL II N-100 (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LUCAS MOREIRA SOARES DE SOUZA",
+        "horario": "6T456 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LUCAS MOREIRA SOARES DE SOUZA",
+        "horario": "6M345 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LET408 - CULTURA GALEGA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MAILSON DOS SANTOS LOPES",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETA04 - SEMINÁRIOS INTERDISCIPLINARES-PESQUISA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SIMONE DA SILVA GUERREIRO",
+        "horario": "4T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETA09 - OFICINA DE LEITURA E PRODUÇÃO DE TEXTOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SIMONE BUENO BORGES DA SILVA",
+        "horario": "2M1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "IRANEIDE SANTOS COSTA",
+        "horario": "2M1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MILENA BRITTO DE QUEIROZ",
+        "horario": "2M1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ELMO JOSE DOS SANTOS",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ADRIANA SANTOS BATISTA",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETA10 - INTRODUÇÃO AOS ESTUDOS LITERÁRIOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FERNANDA RODRIGUES DE MIRANDA",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MICHAEL SILVA",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "LUCIENE ALMEIDA DE AZEVEDO",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "LUCIENE ALMEIDA DE AZEVEDO",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "IGOR ROSSONI",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "MICHAEL SILVA",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETA12 - INTRODUÇÃO AO ESTUDO DA LINGUA LATINA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOSE AMARANTE SANTOS SOBRINHO",
+        "horario": "46M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "TEREZA PEREIRA DO CARMO",
+        "horario": "46M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ADIR DE OLIVEIRA FONSECA JUNIOR",
+        "horario": "46T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ADIR DE OLIVEIRA FONSECA JUNIOR",
+        "horario": "46T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "DANIEL FALKEMBACK RIBEIRO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "DANIEL FALKEMBACK RIBEIRO",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETA16 - ESTUDO DE TEORIAS E REPRESENTAÇÕES DA LITERATURA E DA CULTUR (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANTONIO EDUARDO SOARES LARANJEIRA",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "RODRIGO ALVES DO NASCIMENTO",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MIRELLA MARCIA LONGO VIEIRA LIMA",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MICHAEL SILVA",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETA21 - A LITERATURA BRASILEIRA E A CONSTRUÇÃO DA NACIONALIDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "TATIANA SENA DOS SANTOS",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "TATIANA SENA DOS SANTOS",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "LUCIELE BERNARDI DE SOUZA",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MILENA GUIMARAES ANDRADE TANURE",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETA22 - A LITERATURA PORTUGUESA E O IMAGINÁRIO BRASILEIRO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ADELCIO DE SOUSA CRUZ",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ADELCIO DE SOUSA CRUZ",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "PEDRO ALAIM MARTINS GARCIA JUNIOR",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "MARCIO RICARDO COELHO MUNIZ",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "JULIA PINHEIRO GOMES",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETA91 - FONÉTICA E FONOLOGIA DA LINGUA INGLESA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FEIBRISS HENRIQUE MENEGHELLI CASSILHAS",
+        "horario": "46M56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "DOMINGOS SAVIO PIMENTEL SIQUEIRA",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETA94 - HISTÓRIA DA LINGUA INGLESA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DOMINGOS SAVIO PIMENTEL SIQUEIRA",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "DANIEL VASCONCELOS BRASILEIRO OLIVEIRA",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETA97 - PRODUÇÃO DE TEXTOS EM LINGUA INGLESA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MONIQUE PFAU",
+        "horario": "46M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MATHEUS MACHADO PINTO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETB12 - INTRODUÇÃO AO ESTUDO DE PORTUGUÊS COMO LINGUA ESTRANGEIRA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SARA OLIVEIRA DA CRUZ",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETB27 - LEITURA DE PRODUÇÕES DA MIDIA EM LINGUA INGLESA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FEIBRISS HENRIQUE MENEGHELLI CASSILHAS",
+        "horario": "2M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LAURO IGLESIAS QUADRADO",
+        "horario": "2N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETB30 - TEORIA E PRÁTICA DA TRADUÇÃO ESCRITA EM LINGUA INGLESA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MONIQUE PFAU",
+        "horario": "46M56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ELIZA MITIYO MORINAKA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETB33 - LINGUA ALEMÃ EM NIVEL BÁSICO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LEILA MAGALHAES SANTOS SCHULTZ",
+        "horario": "246T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETB34 - LINGUA ALEMÃ EM NIVEL INTERMEDIÁRIO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ZAIRA NASCIMENTO DA FRANCA",
+        "horario": "246T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETB36 - LÍNGUA ESPANHOLA EM NÍVEL BÁSICO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FABIANA DOS SANTOS MATOS EUGENIO CUNHA",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANA CLARA DE CARVALHO OLIVEIRA",
+        "horario": "246T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ISLIN BARBOSA DE JESUS SANTANA",
+        "horario": "2N1234 4N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETB37 - LINGUA ESPANHOLA EM NIVEL INTERMEDIÁRIO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "246M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ISLIN BARBOSA DE JESUS SANTANA",
+        "horario": "246T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 4N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETB43 - LINGUA INGLESA EM NIVEL INTERMEDIÁRIO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ELEOMARQUES FERREIRA ROCHA",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 4N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETB44 - LINGUA INGLESA EM NIVEL AVANÇADO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PATERSON FRANCO COSTA",
+        "horario": "246M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "PATERSON FRANCO COSTA",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAC (Pavilhão de Aulas do Canela)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "JOZIANNE CAMATTE VIEIRA ANDRADE",
+        "horario": "2N1234 4N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETB45 - LINGUA ITALIANA EM NIVEL BÁSICO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SUSI LEOLINDA ROSAS QUEIROZ",
+        "horario": "235T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SUSI LEOLINDA ROSAS QUEIROZ",
+        "horario": "246T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "JADIRLETE LOPES CABRAL",
+        "horario": "246T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETB46 - LINGUA ITALIANA EM NIVEL INTERMEDIÁRIO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "246T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETC53 - NARRATIVAS AFRICANAS DE LINGUA PORTUGUESA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JESIEL FERREIRA DE OLIVEIRA FILHO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETC84 - LEITURA DE TEXTOS ACADÊMICOS EM LINGUA INGLESA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DOMINGOS SAVIO PIMENTEL SIQUEIRA",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETE47 - LÍNGUA PORTUGUESA NO ENSINO FUNDAMENTAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANDREA BEATRIZ HACK DE GOES",
+        "horario": "4M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "SIMONE SOUZA DE ASSUMPCAO",
+        "horario": "24N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* LETE48 - LIBRAS I- LÍNGUA BRASILEIRA DE SINAIS NIVEL I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "BRUNO PIERIN ERNSEN",
+        "horario": "4T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "JOAO RICARDO BISPO JESUS",
+        "horario": "4T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "JOAO RICARDO BISPO JESUS",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "LETICIA DE SOUZA MAGALHAES DAMASCENO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "LETICIA DE SOUZA MAGALHAES DAMASCENO",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "NANCI ARAÚJO BENTO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "ROBERTO CESAR REIS DA COSTA",
+        "horario": "5T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "CLAUDIANE SILVA SOARES",
+        "horario": "3T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "MAURICIO DAMASCENO SOUZA",
+        "horario": "3T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "MAURICIO DAMASCENO SOUZA",
+        "horario": "5T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "CLAUDIANE SILVA SOARES",
+        "horario": "5T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "BRUNO PIERIN ERNSEN",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "BRUNO PIERIN ERNSEN",
+        "horario": "3T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "BRUNO PIERIN ERNSEN",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "MAURICIO DAMASCENO SOUZA",
+        "horario": "3T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "NANCI ARAÚJO BENTO",
+        "horario": "2T2345 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MAT019 - ELEMENTOS DE MATEMÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "OSCAR EDUARDO OCAMPO URIBE",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "Pavilhão de Aulas da Federação I - 120 -  Terça Horários  07:00 às 07:55Pavilhão de Aulas da Federação I - 120 -  Terça Horários  07:55 às 08:50Pavilhão de Aulas da Federação I - 120 -  Quinta Horários  07:00 às 07:55Pavilhão de Aulas da Federação I - 120 -  Quinta Horários  07:55 às 08:50"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "VILTON JEOVAN VIANA PINHEIRO",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "Pavilhão de Aulas da Federação I - 206 -  Terça Horários  18:30 às 19:25Pavilhão de Aulas da Federação I - 206 -  Terça Horários  19:25 às 20:20Pavilhão de Aulas da Federação I - 206 -  Quinta Horários  18:30 às 19:25Pavilhão de Aulas da Federação I - 206 -  Quinta Horários  19:25 às 20:20"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MAT115 - INTRODUCAO AO PROCESSAMENTO DE DADOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCUS VINICIUS RAMOS FIGUEIREDO",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MAT191 - MATEMATICA FINANCEIRA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "GLORIA MARCIA BARBOSA FERNANDES",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "GLORIA MARCIA BARBOSA FERNANDES",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ADRIANO PEDREIRA CATTAI",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ADRIANO PEDREIRA CATTAI",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "MARCO CERAMI",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "MARCO CERAMI",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATA02 - CÁLCULO A (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ISAMARA CARVALHO ALVES",
+        "horario": "246M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "MARCELO DIAS PASSOS",
+        "horario": "246M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "SAMUEL BARBOSA FEITOSA",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "ISAMARA CARVALHO ALVES",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "BENIGNO OLIVEIRA ALVES",
+        "horario": "246M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "JUAN PABLO ROGGIERO AYALA",
+        "horario": "246M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "DIOGO FRANCO RIOS",
+        "horario": "246T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "MAJELA PENTON MACHADO",
+        "horario": "246T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "MAIKEL ANTONIO SAMUAYS",
+        "horario": "246T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "THIERRY CORREA PETIT LOBAO",
+        "horario": "246T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "DIOGO FRANCO RIOS",
+        "horario": "246T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "JAIME LEONARDO ORJUELA CHAMORRO",
+        "horario": "246T56 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "MAURICIO ROMERO SICRE",
+        "horario": "246N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "MAURICIO ROMERO SICRE",
+        "horario": "246N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "246N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATA07 - ÁLGEBRA LINEAR A (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LEANDRO OLIVA SUGUITANI",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ELEN DEISE ASSIS BARBOSA",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "THIERRY CORREA PETIT LOBAO",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "ELAIS CIDELY SOUZA MALHEIRO",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "JOSE NELSON BASTOS BARBOSA",
+        "horario": "24T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "IGOR CHAGAS SANTOS",
+        "horario": "24N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "EDSON ALBERTO COAYLA TERAN",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "EDSON ALBERTO COAYLA TERAN",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "AUGUSTO ARMANDO DE CASTRO JUNIOR",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "CIRO RUSSO",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "ANDREI BOVYKIN",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "DIRK ERHARD",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "MATA37 - INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "RUBISLEY DE PAULA LEMES",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "IC (IC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "CLAUDIO NOGUEIRA SANT ANNA",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "IC (IC)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "EDUARDO SANTANA DE ALMEIDA",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "IC (IC)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "DANILO BARBOSA COIMBRA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "IC (IC)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "KARL PHILIPS APAZA AGUERO",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "CASSIO VINICIUS SERAFIM PRAZERES",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "IC (IC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "MATA38 - PROJETO DE CIRCUITOS LÓGICOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "BRUNO PEREIRA DOS SANTOS",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "EUCLERIO BARBOSA ORNELLAS FILHO",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "MATA39 - SEMINÁRIOS DE INTRODUÇÃO AO CURSO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ROBERTO FREITAS PARENTE",
+        "horario": "2T56  2N1 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "IGOR SOBRAL MUNIZ",
+        "horario": "7T3  2N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATA41 - INFORMÁTICA NA EDUCAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "46N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATA42 - MATEMÁTICA DISCRETA I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANDREI BOVYKIN",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANDREAS BERNHARD MICHAEL BRUNNER",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "VILTON JEOVAN VIANA PINHEIRO",
+        "horario": "35N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATA44 - ESTATISTICA V (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PAULO JORGE CANAS RODRIGUES",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "GILBERTO PEREIRA SASSI",
+        "horario": "24T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATA55 - PROGRAMAÇÃO ORIENTADA A OBJETOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "RITA SUZANA PITANGUEIRA MACIEL",
+        "horario": "24T34 (01/09/2025 - 10/01/2026)",
+        "local": "IC (IC)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LAISE CAVALCANTE OLIVEIRA",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "MATA56 - PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MANOEL GOMES DE MENDONCA NETO",
+        "horario": "24T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATA68 - COMPUTADOR, ÉTICA E SOCIEDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DEBORA ABDALLA SANTOS",
+        "horario": "7T2  4N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "IGOR SOBRAL MUNIZ",
+        "horario": "7T2  4N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATB34 - GEOMETRIA ANALÍTICA E ÁLGEBRA VETORIAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCELO DIAS PASSOS",
+        "horario": "246T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATB59.0 - ESTATÍSTICA BÁSICA A - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SILVIA REGINA RIBEIRO LEMOS MORAIS",
+        "horario": "5M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANDREA ANDRADE PRUDENTE",
+        "horario": "5N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATB59.1 - ESTATÍSTICA BÁSICA A - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "SILVIA REGINA RIBEIRO LEMOS MORAIS",
+        "horario": "3M34 (01/09/2025 - 10/01/2026)",
+        "local": "MAT (MAT)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANDREA ANDRADE PRUDENTE",
+        "horario": "3N34 (01/09/2025 - 10/01/2026)",
+        "local": "MAT (MAT)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATC26 - MATEMÁTICA PARA O ENSINO FUNDAMENTAL I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "KATIA CRISTINA LIMA SANTANA",
+        "horario": "24M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ELIAS SANTIAGO DE ASSIS",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATC53 - ACCS:ONDA SOLIDÁRIA DE INCLUSÃO DIGITAL-TECNOLOGIA A SERVIÇO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "RUBISLEY DE PAULA LEMES",
+        "horario": "7T2345 (01/09/2025 - 10/01/2026)",
+        "local": "IC (IC)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATC90 - CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LARISSA BARBOSA LEONCIO PINHEIRO",
+        "horario": "46N34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MATC92 - FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LARISSA BARBOSA LEONCIO PINHEIRO",
+        "horario": "46N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "MATD04 - ESTRUTURAS DE DADOS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FLAVIO MORAIS DE ASSIS SILVA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ADRIANO HUMBERTO DE OLIVEIRA MAIA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "MATF59 - ESTATÍSTICA BÁSICA PARA HUMANIDADES (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARISTELA DIAS DE OLIVEIRA",
+        "horario": "24T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "NIVEA BISPO DA SILVA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MEVA52 - APICULTURA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "GUIDO LAERCIO BRAGANCA CASTAGNINO",
+        "horario": "4T345 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MEVA72 - SOCIOLOGIA RURAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CLAUDIO DE OLIVEIRA ROMAO",
+        "horario": "4T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MEVA80 - EXTENSÃO RURAL E COOPERATIVISMO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CLAUDIO DE OLIVEIRA ROMAO",
+        "horario": "3T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MEVB23 - CIÊNCIAS HUMANAS E SOCIAIS APLICADAS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "EDNA MARIA DA SILVA",
+        "horario": "2M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "EDNA MARIA DA SILVA",
+        "horario": "4M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* MEVC24 - SAÚDE AMBIENTAL E CULTURA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CARLOS ROBERTO FRANKE",
+        "horario": "4T345 (01/09/2025 - 10/01/2026)",
+        "local": "MEV (MEV)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "CARLOS ROBERTO FRANKE",
+        "horario": "5M345 (01/09/2025 - 10/01/2026)",
+        "local": "MEV (MEV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUI003 - QUÍMICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PALOMA NASCIMENTO DOS SANTOS",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "HADMA SOUSA FERREIRA",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ERLAN ARAGÃO PACHECO",
+        "horario": "24M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "HADMA SOUSA FERREIRA",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "DANILO KLEBER SANTOS SALES",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUI029 - QUIMICA GERAL (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "HADMA SOUSA FERREIRA",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MARIA LUCIA DA SILVA MARQUES",
+        "horario": "24M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "35M12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "DANILO KLEBER SANTOS SALES",
+        "horario": "35M56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "DANILO KLEBER SANTOS SALES",
+        "horario": "35M34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIA27.0 - QUÍMICA FUNDAMENTAL I - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "DENILSON SANTOS COSTA",
+        "horario": "3T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "FABIANA ROBERTA GONCALVES E SILVA HUSSEIN",
+        "horario": "3N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "CAROINDES JULIA CORREA GOMES",
+        "horario": "3M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "DENILSON SANTOS COSTA",
+        "horario": "3M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIA27.1 - QUÍMICA FUNDAMENTAL I - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "FERNANDA TEIXEIRA CRUZ",
+        "horario": "5T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF6"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "FERNANDA TEIXEIRA CRUZ",
+        "horario": "5T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF6"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "FABIANA ROBERTA GONCALVES E SILVA HUSSEIN",
+        "horario": "3N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "FERNANDA TEIXEIRA CRUZ",
+        "horario": "5M34 (01/09/2025 - 10/01/2026)",
+        "local": "paf6"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "CAROINDES JULIA CORREA GOMES",
+        "horario": "3M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "DENILSON SANTOS COSTA",
+        "horario": "2T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "DENILSON SANTOS COSTA",
+        "horario": "3M56 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "JOICY SANTAMALVINA DOS SANTOS",
+        "horario": "5M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      }
+    ]
+  },
+  
+  {
+    "disciplina": "* QUIA28.0 - QUÍMICA FUNDAMENTAL II - TEÓRICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LILIAN MARIA TOSTA SIMPLICIO RODRIGUES",
+        "horario": "5T12 (01/09/2025 - 10/01/2026)",
+        "local": "PAF6"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "HADMA SOUSA FERREIRA",
+        "horario": "5N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "SORAIA TEIXEIRA BRANDAO",
+        "horario": "5M12 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIA28.1 - QUÍMICA FUNDAMENTAL II - PRÁTICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LILIAN MARIA TOSTA SIMPLICIO RODRIGUES",
+        "horario": "5T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "LILIAN MARIA TOSTA SIMPLICIO RODRIGUES",
+        "horario": "5T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF6"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "SORAIA TEIXEIRA BRANDAO",
+        "horario": "4T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF6"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "HADMA SOUSA FERREIRA",
+        "horario": "5N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "HADMA SOUSA FERREIRA",
+        "horario": "6N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "SORAIA TEIXEIRA BRANDAO",
+        "horario": "5M34 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "SORAIA TEIXEIRA BRANDAO",
+        "horario": "5M56 (01/09/2025 - 10/01/2026)",
+        "local": "PF6 (Pavilhão de Aulas da Federação VI)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIA32 - INTRODUÇÃO À QUÍMICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "LILIAN MARIA TOSTA SIMPLICIO RODRIGUES",
+        "horario": "3T56 (01/09/2025 - 10/01/2026)",
+        "local": "PAF"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIB30 - ÁGUA, NATUREZA E VIDA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "HELIANILDES SILVA FERREIRA",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "HELIANILDES SILVA FERREIRA",
+        "horario": "3T1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIB31 - ENERGIA, AMBIENTE E SOCIEDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 02",
+        "docente": "MARCOS MALTA DOS SANTOS",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "A definir..."
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "MARCOS MALTA DOS SANTOS",
+        "horario": "5T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAF"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIB33 - QUÍMICA ORGÂNICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "JOSE ROQUE MOTA CARVALHO",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIB74 - TÓPICOS ESPECIAIS EM QUÍMICA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "CAIO LUIS SANTOS SILVA",
+        "horario": "3T34 (01/09/2025 - 10/01/2026)",
+        "local": "PAF"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUIC62 - EDUCAÇÃO EM QUÍMICA E RELAÇÕES ÉTNICO-RACIAIS (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PALOMA NASCIMENTO DOS SANTOS",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAF6"
+      }
+    ]
+  },
+  {
+    "disciplina": "* QUID48 - ACCS: COMPOSTAGEM: A PRÁTICA DA SUSTENTABILIDADE (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "KLEBER QUEIROZ FERREIRA",
+        "horario": "3M56 3T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ZENIS NOVAIS DA ROCHA",
+        "horario": "5M56 5T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAF"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "ZENIS NOVAIS DA ROCHA",
+        "horario": "6M56 6T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PAF (Pavilhão de Aulas da Federação I)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* TEA085 - DICCAO I (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "MARCELO SOUSA BRITO",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* TEA093 - ANÁLISE DE TEXTO (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PAULO HENRIQUE CORREIA ALCANTARA",
+        "horario": "3T2345 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "* TEA278 - ARTES VISUAIS I-A (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 02",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "5M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PAV IV e PAF V"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6M3456 (01/09/2025 - 10/01/2026)",
+        "local": "PAF IV e PAF V"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2T2345 (01/09/2025 - 10/01/2026)",
+        "local": "PAF IV e PAF V"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "EDUARDO AUGUSTO DA SILVA TUDELLA",
+        "horario": "35T23 (01/09/2025 - 10/01/2026)",
+        "local": "PAF IV / PAF V"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2M3456 (01/09/2025 - 10/01/2026)",
+        "local": "a definir"
+      }
+    ]
+  },
+  {
+    "disciplina": "* TEAA68 - TEATRO E CONTRACULTURA (Optativa)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "PAULO LAURO NASCIMENTO DOURADO",
+        "horario": "3T2345 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      }
+    ]
+  },
+  {
+    "disciplina": "HACA01 - ESTUDOS SOBRE A CONTEMPORANEIDADE I (Obrig. Currículo)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "ANDRE LUIS MATTEDI DIAS",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANA LUCIA LAGE PEREIRA",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "HACA09 - CIÊNCIA E TECNOLOGIA I (Obrig. Currículo)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "RAFAEL REIS CABRAL",
+        "horario": "46T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "GENARO FERNANDES DE CARVALHO COSTA",
+        "horario": "35N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "24N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "24N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "HACA34 - ESTUDOS SOBRE A CONTEMPORANEIDADE II (Obrig. Currículo)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "RENATA MAGALHAES JOU",
+        "horario": "3T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "ANA CAROLINA PEDROSA PONTES",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "RAFAEL REIS CABRAL",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 04",
+        "docente": "IVAN CLAUDIO PEREIRA SIQUEIRA",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "SHEILA CANEVACCI RIBEIRO",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "RENATA MAGALHAES JOU",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "RITA DE CASSIA ARAGAO MATOS",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "MARCOS VINÍCIUS DE SANTANA SILVA",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "SAMUEL MACEDO DO NASCIMENTO",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "HAENZ GUTIERREZ QUINTANA",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "IVAN CLAUDIO PEREIRA SIQUEIRA",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "RITA DE CASSIA ARAGAO MATOS",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "RAFAEL REIS CABRAL",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 17",
+        "docente": "RENATA MAGALHAES JOU",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 18",
+        "docente": "MESSIAS GUIMARAES BANDEIRA",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 19",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 20",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 21",
+        "docente": "LUCAS MONTEIRO SANTOS",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 22",
+        "docente": "EDMO FERNANDES CARVALHO",
+        "horario": "4N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 23",
+        "docente": "ANA CAROLINA PEDROSA PONTES",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "HAC (HAC)"
+      },
+      {
+        "turma": "Turma 24",
+        "docente": "EDMO FERNANDES CARVALHO",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 25",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 26",
+        "docente": "LUCAS MONTEIRO SANTOS",
+        "horario": "6N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 27",
+        "docente": "SAMUEL MACEDO DO NASCIMENTO",
+        "horario": "4T1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "HACA38 - CIÊNCIA E TECNOLOGIA II (Obrig. Currículo)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "46T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF4 (Pavilhão de Aulas IV)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "46N12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "46N34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "LETE45 - LEITURA E PRODUÇÃO DE TEXTOS EM LÍNGUA PORTUGUESA (Obrig. Currículo)",
+    "turmas": [
+      {
+        "turma": "Turma 04",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "2N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 05",
+        "docente": "JOSE HENRIQUE DE FREITAS SANTOS",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 06",
+        "docente": "LUCIANO AMARAL OLIVEIRA",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 07",
+        "docente": "ALBA VALERIA TINOCO ALVES SILVA",
+        "horario": "35T12 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 08",
+        "docente": "JOSE HENRIQUE DE FREITAS SANTOS",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 09",
+        "docente": "LUCIANO AMARAL OLIVEIRA",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 10",
+        "docente": "ALBA VALERIA TINOCO ALVES SILVA",
+        "horario": "35T34 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 11",
+        "docente": "ANA LUCIA SILVA SOUZA e JULIO NEVES PEREIRA",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 12",
+        "docente": "LUCIANO AMARAL OLIVEIRA",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 13",
+        "docente": "LAVINIA NEVES DOS SANTOS MATTOS",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 14",
+        "docente": "JULIO NEVES PEREIRA",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 15",
+        "docente": "SIMONE SOUZA DE ASSUMPCAO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 16",
+        "docente": "JEFFERSON FERNANDO VOSS DOS SANTOS",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 17",
+        "docente": "ELMO JOSE DOS SANTOS",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 18",
+        "docente": "DANIELE DE OLIVEIRA",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 19",
+        "docente": "RENATA LEMOS CARVALHO",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 20",
+        "docente": "JULIA DIAS DA SILVA",
+        "horario": "3T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 21",
+        "docente": "JULIA DIAS DA SILVA",
+        "horario": "5T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 22",
+        "docente": "JULIA DIAS DA SILVA",
+        "horario": "2T3456 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 23",
+        "docente": "LAVINIA NEVES DOS SANTOS MATTOS",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 24",
+        "docente": "JULIO NEVES PEREIRA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 25",
+        "docente": "LUIZ FELIPE ANDRADE SILVA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 26",
+        "docente": "DANIELE DE OLIVEIRA e ANA LUCIA SILVA SOUZA",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 27",
+        "docente": "RENATA LEMOS CARVALHO",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 28",
+        "docente": "MILENA BRITTO DE QUEIROZ",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 29",
+        "docente": "JEFFERSON FERNANDO VOSS DOS SANTOS",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  },
+  {
+    "disciplina": "HACA02 - ELEMENTOS ACADÊMICOS E PROFISSIONAIS EM CIÊNCIA E TECNOLOGIA (Obrig. Currículo)",
+    "turmas": [
+      {
+        "turma": "Turma 01",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "35T56 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 02",
+        "docente": "RENATA MAGALHAES JOU",
+        "horario": "3N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      },
+      {
+        "turma": "Turma 03",
+        "docente": "A DEFINIR DOCENTE",
+        "horario": "5N1234 (01/09/2025 - 10/01/2026)",
+        "local": "PF3 (Pavilhão de Aulas da Federação III)"
+      }
+    ]
+  }
+]
+
